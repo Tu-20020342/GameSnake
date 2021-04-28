@@ -1,0 +1,9 @@
+﻿  Snake.cpp
+C:\Users\ADMIN\Desktop\sdl\main\main\Snake.cpp(29,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ADMIN\Desktop\sdl\main\main\Snake.cpp(208,16): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\ADMIN\Desktop\sdl\main\main\Snake.cpp(217,23): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\ADMIN\Desktop\sdl\main\main\Snake.cpp(323,39): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\sdl\main\main\Snake.cpp(325,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\sdl\main\main\Snake.cpp(327,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\sdl\main\main\Snake.cpp(329,39): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  main.vcxproj -> C:\Users\ADMIN\Desktop\sdl\main\Debug\main.exe
